@@ -1,0 +1,2 @@
+# Bağımlılıklar
+# Araç ve simülasyon ortamı seçildikten sonra gerçek bağımlılıklar buraya eklenecektir.
